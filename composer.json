@@ -16,11 +16,11 @@
     "require": {
         "php": "^8.0",
         "ext-json": "*",
-        "arcanedev/support": "^9.0"
+        "arcanedev/support": "^11.0"
     },
     "require-dev": {
         "ext-intl": "*",
-        "laravel/framework": "^9.0",
+        "laravel/framework": "^11.0",
         "mockery/mockery": "^1.4.4",
         "orchestra/testbench-core": "^7.0",
         "phpunit/phpunit": "^9.5.10"
